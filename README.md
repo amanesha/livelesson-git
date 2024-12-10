@@ -16,6 +16,7 @@
         - 'git checkout <HASH OR HEAD~>':if you forget the file you end up in detached>
             - 'git checkout main':go back to main
             - 'git switch main':go back to main
+  # Remotes
 - 'git remote add <NAME> <URL> ': adds the <URL> as a remote with the name <NAME> 
 - 'git remote rm <NAME> ': removes the remote called <NAME>
 - 'git remote -v': look at all the remotes you have
